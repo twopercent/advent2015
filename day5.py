@@ -108,3 +108,5 @@ while word != '':
 
 print('Nice words - old rules: ' + str(nice_words_old))
 print('Nice words - new rules: ' + str(nice_words_new))
+
+f.close()
